@@ -38,6 +38,7 @@ Computer Science is about problem solving. This course will deal specifically wi
 
 
 ## COURSE REQUIREMENTS (assignment, evaluations, outcomes, etc.)
+
 The student's mastery of the concepts presented in the course will be evaluated by the timely completion of assigned programming exercises, exams, and a comprehensive final. This class has a significant emphasis on the Linux operating system environment.
 
 
@@ -60,8 +61,7 @@ The student's mastery of the concepts presented in the course will be evaluated 
 | F           | Below 60%  |
 
 
-Grades will not be “rounded” at the end of the semester. The final grade letter earned will be attained in full or will not be attained at all. Earning a good overall grade requires consistent, quality effort
-throughout the semester.
+Grades will not be “rounded” at the end of the semester. The final grade letter earned will be attained in full or will not be attained at all. Earning a good overall grade requires consistent, quality effort throughout the semester.
 
 Your grade do not define you, it is just your a performance measure of yours in this class. Have an excellent performance.
 
